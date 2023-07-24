@@ -1,11 +1,9 @@
 # Hi, my name is Mikhail :clap:
 
 ## About me
-
 I'm an aspiring frontend developer, currently diving into web development courses and building up my skills. As I learn, I'm taking on freelance projects to get some hands-on experience and put my new skills to the test in real-world tasks.
 
 ## Skills
-
 - JavaScript
 - HTML/CSS
 - React
@@ -22,10 +20,14 @@ Welcome to my portfolio, showcasing a mix of real-life projects and pet projects
 - [Верхнее Мокино](https://земля159.рф/) - SPA with interactive map, photos slider and user form.
 
 ### Pet projects
-- [mesto](https://wardenclock1759.github.io/mesto/) - SPA with an ability to customise profile, add/delete and view other people images. 
+- [mesto](https://github.com/Wardenclock1759/react-mesto-api-full-gha) - SPA with an ability to customise profile, add/delete and view other people images.
 
-## Contacts
+## Articles
+### Predictive models integration with an environmental monitoring IoT platform
+Published in Journal Of Applied Informatics (DOI: [10.37791/2687-0649-2022-17-4-5-16](https://doi.org/10.37791/2687-0649-2022-17-4-5-16))
 
+## Contacts and other info
 - Email: wardenclock@gmail.com
 - Telegram: [Wardenclock](https://t.me/wardenclock)
 - LinkedIn: [Wardenclock](https://www.linkedin.com/in/wardenclock)
+- ORCID: [Kukarkin Mikhail](https://orcid.org/0000-0002-3570-9998)
