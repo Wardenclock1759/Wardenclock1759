@@ -16,8 +16,9 @@ I'm an aspiring frontend developer, currently diving into web development course
 ## Portfolio
 Welcome to my portfolio, showcasing a mix of real-life projects and pet projects crafted during my web development courses.
 
-### "Real" projects 
+### Real projects 
 - [Верхнее Мокино](https://земля159.рф/) - SPA with interactive map, photos slider and user form.
+- [2Tool](https://new.2tool.ru/posts) - Online store for the tools. Work in progress.
 
 ### Pet projects
 - [mesto](https://github.com/Wardenclock1759/react-mesto-api-full-gha) - SPA with an ability to customise profile, add/delete and view other people images.
