@@ -22,6 +22,8 @@ Welcome to my portfolio, showcasing a mix of real-life projects and pet projects
 
 ### Pet projects
 - [mesto](https://github.com/Wardenclock1759/react-mesto-api-full-gha) - SPA with an ability to customise profile, add/delete and view other people images.
+- [Codex scraper](https://github.com/Wardenclock1759/codex_scraper) - Python project that downloads text of codexes with the intended table of contents.
+- [Classifier Telegram Bot](https://github.com/Wardenclock1759/hyper_bot) - Simple telegram bot that uses classifier to predict the probability based on user input.
 
 ## Articles
 ### Predictive models integration with an environmental monitoring IoT platform
