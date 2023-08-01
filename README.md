@@ -3,11 +3,18 @@
 ## About me
 I'm an aspiring frontend developer, currently diving into web development courses and building up my skills. As I learn, I'm taking on freelance projects to get some hands-on experience and put my new skills to the test in real-world tasks.
 
-## Skills
+## My experience
+### Good at
 - JavaScript
+- Java
+- Golang
+- Python
+- PHP
+- Node.js
+
+### Skills
 - HTML/CSS
 - React
-- Node.js
 - MUI
 - Webpack
 - Docker
