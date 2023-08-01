@@ -4,7 +4,7 @@
 I'm an aspiring frontend developer, currently diving into web development courses and building up my skills. As I learn, I'm taking on freelance projects to get some hands-on experience and put my new skills to the test in real-world tasks.
 
 ## My experience
-### Good at
+### Languages
 - JavaScript
 - Java
 - Golang
@@ -12,7 +12,7 @@ I'm an aspiring frontend developer, currently diving into web development course
 - PHP
 - Node.js
 
-### Skills
+### Other skills
 - HTML/CSS
 - React
 - MUI
