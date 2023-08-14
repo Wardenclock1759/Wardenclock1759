@@ -36,6 +36,7 @@ Welcome to my portfolio, showcasing a mix of real-life projects and pet projects
 #### Go - From XSOLLA SUMMER SCHOOL 2020
 - [News-api](https://github.com/Wardenclock1759/News_API) - Intro task for the school. Simple API with CRUD features.
 - [Store-api](https://github.com/Wardenclock1759/StoreAPI) - Main project in the course. Created logic that worked on top of existing XSOLLA API.
+- [Course paper](https://github.com/Wardenclock1759/kursovaya) - My course paper for the 3rd year in HSE. This project is lite version of the store-api mentioned above. 
 
 ## Articles
 ### Predictive models integration with an environmental monitoring IoT platform
