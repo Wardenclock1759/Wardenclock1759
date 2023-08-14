@@ -33,6 +33,9 @@ Welcome to my portfolio, showcasing a mix of real-life projects and pet projects
 #### Python
 - [Codex scraper](https://github.com/Wardenclock1759/codex_scraper) - Python project that downloads text of codexes with the intended table of contents.
 - [Classifier Telegram Bot](https://github.com/Wardenclock1759/hyper_bot) - Simple telegram bot that uses classifier to predict the probability based on user input.
+#### Go - From XSOLLA SUMMER SCHOOL 2020
+- [News-api](https://github.com/Wardenclock1759/News_API) - Intro task for the school. Simple API with CRUD features.
+- [Store-api](https://github.com/Wardenclock1759/StoreAPI) - Main project in the course. Created logic that worked on top of existing XSOLLA API.
 
 ## Articles
 ### Predictive models integration with an environmental monitoring IoT platform
