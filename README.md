@@ -30,6 +30,7 @@ Welcome to my portfolio, showcasing a mix of real-life projects and pet projects
 ### Pet projects
 #### React
 - [mesto](https://github.com/Wardenclock1759/react-mesto-api-full-gha) - SPA with an ability to customise profile, add/delete and view other people images.
+- [Store cart page](https://github.com/Wardenclock1759/wb-tests) - Cart page with adaptive design. This project is a part of Wilberries tasks. Currently work in progress. 
 #### Python
 - [Codex scraper](https://github.com/Wardenclock1759/codex_scraper) - Python project that downloads text of codexes with the intended table of contents.
 - [Classifier Telegram Bot](https://github.com/Wardenclock1759/hyper_bot) - Simple telegram bot that uses classifier to predict the probability based on user input.
